@@ -30,10 +30,8 @@ Model Evaluation
 Evaluate accuracy, precision, recall, and F1-score
 
 Use MulticlassClassificationEvaluator for Spark ML pipelines
-
 Visualization
 Plot distribution of sentiments
-
 Display model performance metrics
 
 📊 Results
